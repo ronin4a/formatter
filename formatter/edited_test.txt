@@ -1,0 +1,14 @@
+function(x int, b int)
+{
+    var a;
+    var b;
+    if (x == b)
+    {
+        var x = a + b;
+    }
+}
+
+function2(y int, a int)
+{
+    return y + a;
+}
